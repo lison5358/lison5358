@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lison
 - 👀 I’m Noob in Coding
-- 🌱 I’m currently learning ...
+- 🌱 I’m Currently learning ...
 - 💞️ I’m love PUBG
 - 📫 Telegram ID : @sub_zero_00
 
