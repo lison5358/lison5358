@@ -2,8 +2,7 @@
 - 👀 I’m Noob in Coding
 - 🌱 I’m currently learning ...
 - 💞️ I’m love PUBG
-- 📫 How to reach me ...
-     telegram id @sub_zero_00
+- 📫 Telegram ID : @sub_zero_00
 
 <!---
 lison5358/lison5358 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
