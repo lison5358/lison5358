@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Lison (✨ MALAYALI ✨)
 - 👀 I’m Noob in Coding
 - 🌱 I’m Currently learning ...
-- 💞️ I’m love PUBG
 - 📫 Telegram ID : @sub_zero_00
 
 <!---
